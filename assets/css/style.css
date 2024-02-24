@@ -968,7 +968,7 @@
 
     .section-nine .inner-wrap .inner-box .inner-person .inner-text .inner-name {
         font-size: 23px;
-        width: 150px;
+        white-space: nowrap;
     }
 
 }
